@@ -3,7 +3,7 @@ Mostre uma mensagem caso o valor seja inválido e continue pedindo até que o us
 
 using System;
 
-class score{
+class Score{
     static void Main(string[] args){
         int score;
         for (;;)

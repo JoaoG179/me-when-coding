@@ -1,0 +1,15 @@
+C:\Users\joaog\projetos\app\me-when-coding\loop3\obj\Debug\net8.0\loop3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaog\projetos\app\me-when-coding\loop3\obj\Debug\net8.0\loop3.AssemblyInfoInputs.cache
+C:\Users\joaog\projetos\app\me-when-coding\loop3\obj\Debug\net8.0\loop3.AssemblyInfo.cs
+C:\Users\joaog\projetos\app\me-when-coding\loop3\obj\Debug\net8.0\loop3.csproj.CoreCompileInputs.cache
+C:\Users\joaog\projetos\app\me-when-coding\loop3\obj\Debug\net8.0\loop3.sourcelink.json
+C:\Users\joaog\projetos\app\me-when-coding\loop3\bin\Debug\net8.0\loop3.exe
+C:\Users\joaog\projetos\app\me-when-coding\loop3\bin\Debug\net8.0\loop3.deps.json
+C:\Users\joaog\projetos\app\me-when-coding\loop3\bin\Debug\net8.0\loop3.runtimeconfig.json
+C:\Users\joaog\projetos\app\me-when-coding\loop3\bin\Debug\net8.0\loop3.dll
+C:\Users\joaog\projetos\app\me-when-coding\loop3\bin\Debug\net8.0\loop3.pdb
+C:\Users\joaog\projetos\app\me-when-coding\loop3\obj\Debug\net8.0\loop3.dll
+C:\Users\joaog\projetos\app\me-when-coding\loop3\obj\Debug\net8.0\refint\loop3.dll
+C:\Users\joaog\projetos\app\me-when-coding\loop3\obj\Debug\net8.0\loop3.pdb
+C:\Users\joaog\projetos\app\me-when-coding\loop3\obj\Debug\net8.0\loop3.genruntimeconfig.cache
+C:\Users\joaog\projetos\app\me-when-coding\loop3\obj\Debug\net8.0\ref\loop3.dll
