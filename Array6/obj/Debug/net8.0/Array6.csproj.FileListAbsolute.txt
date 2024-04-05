@@ -1,0 +1,15 @@
+C:\Users\joaog\projetos\app\me-when-coding\Array6\bin\Debug\net8.0\Array6.exe
+C:\Users\joaog\projetos\app\me-when-coding\Array6\bin\Debug\net8.0\Array6.deps.json
+C:\Users\joaog\projetos\app\me-when-coding\Array6\bin\Debug\net8.0\Array6.runtimeconfig.json
+C:\Users\joaog\projetos\app\me-when-coding\Array6\bin\Debug\net8.0\Array6.dll
+C:\Users\joaog\projetos\app\me-when-coding\Array6\bin\Debug\net8.0\Array6.pdb
+C:\Users\joaog\projetos\app\me-when-coding\Array6\obj\Debug\net8.0\Array6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaog\projetos\app\me-when-coding\Array6\obj\Debug\net8.0\Array6.AssemblyInfoInputs.cache
+C:\Users\joaog\projetos\app\me-when-coding\Array6\obj\Debug\net8.0\Array6.AssemblyInfo.cs
+C:\Users\joaog\projetos\app\me-when-coding\Array6\obj\Debug\net8.0\Array6.csproj.CoreCompileInputs.cache
+C:\Users\joaog\projetos\app\me-when-coding\Array6\obj\Debug\net8.0\Array6.sourcelink.json
+C:\Users\joaog\projetos\app\me-when-coding\Array6\obj\Debug\net8.0\Array6.dll
+C:\Users\joaog\projetos\app\me-when-coding\Array6\obj\Debug\net8.0\refint\Array6.dll
+C:\Users\joaog\projetos\app\me-when-coding\Array6\obj\Debug\net8.0\Array6.pdb
+C:\Users\joaog\projetos\app\me-when-coding\Array6\obj\Debug\net8.0\Array6.genruntimeconfig.cache
+C:\Users\joaog\projetos\app\me-when-coding\Array6\obj\Debug\net8.0\ref\Array6.dll

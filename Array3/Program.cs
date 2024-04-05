@@ -1,4 +1,7 @@
-﻿using System;
+﻿/*Escreva um programa em java que crie um vetor com 10 números inteiros aleatórios
+depois calcule a média dos elementos deste vetor.*/
+
+using System;
 class Array3
 {
     static void Main(String[]args){

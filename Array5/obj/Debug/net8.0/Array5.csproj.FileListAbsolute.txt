@@ -1,0 +1,15 @@
+C:\Users\joaog\projetos\app\me-when-coding\Array5\bin\Debug\net8.0\Array5.exe
+C:\Users\joaog\projetos\app\me-when-coding\Array5\bin\Debug\net8.0\Array5.deps.json
+C:\Users\joaog\projetos\app\me-when-coding\Array5\bin\Debug\net8.0\Array5.runtimeconfig.json
+C:\Users\joaog\projetos\app\me-when-coding\Array5\bin\Debug\net8.0\Array5.dll
+C:\Users\joaog\projetos\app\me-when-coding\Array5\bin\Debug\net8.0\Array5.pdb
+C:\Users\joaog\projetos\app\me-when-coding\Array5\obj\Debug\net8.0\Array5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaog\projetos\app\me-when-coding\Array5\obj\Debug\net8.0\Array5.AssemblyInfoInputs.cache
+C:\Users\joaog\projetos\app\me-when-coding\Array5\obj\Debug\net8.0\Array5.AssemblyInfo.cs
+C:\Users\joaog\projetos\app\me-when-coding\Array5\obj\Debug\net8.0\Array5.csproj.CoreCompileInputs.cache
+C:\Users\joaog\projetos\app\me-when-coding\Array5\obj\Debug\net8.0\Array5.sourcelink.json
+C:\Users\joaog\projetos\app\me-when-coding\Array5\obj\Debug\net8.0\Array5.dll
+C:\Users\joaog\projetos\app\me-when-coding\Array5\obj\Debug\net8.0\refint\Array5.dll
+C:\Users\joaog\projetos\app\me-when-coding\Array5\obj\Debug\net8.0\Array5.pdb
+C:\Users\joaog\projetos\app\me-when-coding\Array5\obj\Debug\net8.0\Array5.genruntimeconfig.cache
+C:\Users\joaog\projetos\app\me-when-coding\Array5\obj\Debug\net8.0\ref\Array5.dll
