@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Atv Sala1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5cbcc7f2fc9ec7c7d011cad4719a6e34c0e0ad39")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+48063fd12c9e7baffbb74bf14783501e53927c62")]
 [assembly: System.Reflection.AssemblyProductAttribute("Atv Sala1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Atv Sala1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+C:\Users\joaog\projetos\app\me-when-coding\Elevador\obj\Debug\net8.0\Elevador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaog\projetos\app\me-when-coding\Elevador\obj\Debug\net8.0\Elevador.AssemblyInfoInputs.cache
+C:\Users\joaog\projetos\app\me-when-coding\Elevador\obj\Debug\net8.0\Elevador.AssemblyInfo.cs
+C:\Users\joaog\projetos\app\me-when-coding\Elevador\obj\Debug\net8.0\Elevador.csproj.CoreCompileInputs.cache
+C:\Users\joaog\projetos\app\me-when-coding\Elevador\obj\Debug\net8.0\Elevador.sourcelink.json
+C:\Users\joaog\projetos\app\me-when-coding\Elevador\bin\Debug\net8.0\Elevador.exe
+C:\Users\joaog\projetos\app\me-when-coding\Elevador\bin\Debug\net8.0\Elevador.deps.json
+C:\Users\joaog\projetos\app\me-when-coding\Elevador\bin\Debug\net8.0\Elevador.runtimeconfig.json
+C:\Users\joaog\projetos\app\me-when-coding\Elevador\bin\Debug\net8.0\Elevador.dll
+C:\Users\joaog\projetos\app\me-when-coding\Elevador\bin\Debug\net8.0\Elevador.pdb
+C:\Users\joaog\projetos\app\me-when-coding\Elevador\obj\Debug\net8.0\Elevador.dll
+C:\Users\joaog\projetos\app\me-when-coding\Elevador\obj\Debug\net8.0\refint\Elevador.dll
+C:\Users\joaog\projetos\app\me-when-coding\Elevador\obj\Debug\net8.0\Elevador.pdb
+C:\Users\joaog\projetos\app\me-when-coding\Elevador\obj\Debug\net8.0\Elevador.genruntimeconfig.cache
+C:\Users\joaog\projetos\app\me-when-coding\Elevador\obj\Debug\net8.0\ref\Elevador.dll

@@ -1,6 +1,6 @@
 using System;
 
-public class Jogador:Infos{
+public class Jogador{
     public int peso, altura, idade;
     public string nome, posicao, nacionalidade;
 
