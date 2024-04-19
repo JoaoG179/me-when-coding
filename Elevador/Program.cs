@@ -26,11 +26,10 @@ class MainClass:Elevador{
         AT = Convert.ToInt32(Console.ReadLine());
         Console.WriteLine("Informe a capacidade do elevador");
         CAP = Convert.ToInt32(Console.ReadLine());
+        elevador.inicializarElevador(AA, AT, CAP, PES);
         elevador.imprimir();
         Console.WriteLine("Oque deseja fazer?");
         Console.WriteLine("Adicionar/Remover uma pessoa do elevador?/n ou /n Subir/Descer um andar?");
-        elevador.inicializarElevador(AA, AT, CAP, PES);
-        elevador.imprimir();
         //loop para checar oque o usuario deseja fazer
         while(true){
             input = Console.ReadLine();
@@ -58,8 +57,8 @@ class MainClass:Elevador{
             }else{
                 Console.WriteLine("Esse não é um comando válido.");
             }
-            }
-            elevador.imprimir();
         }
-
+        //imprimindo os status do elevador uma ultima vez no fim do processo
+        elevador.imprimir();
     }
+}
