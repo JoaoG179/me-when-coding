@@ -29,7 +29,7 @@ class MainClass:Administrador{
         Console.WriteLine("Qual o valor de Produção?");
         Prod = Convert.ToDouble(Console.ReadLine());
         Console.WriteLine("Qual o valor de Venda?");
-        CommV = Convert.ToDouble(Console.ReadLine());
+        Sell = Convert.ToDouble(Console.ReadLine());
 
 
 

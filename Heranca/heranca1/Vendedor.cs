@@ -17,7 +17,7 @@ class Vendedor:Empregado{
         CommV = comm;
     }
     public override void calcularSalario(){
-        double salarioVendedor = Pay = 5000 + CommV;
+        double salarioVendedor = Pay = 5000 + CommV;//tive q dar valor ao "Pay" dnv, n gosto disso
         Console.WriteLine("Salario Vendedor: {0}", salarioVendedor);
     }    
 }
