@@ -1,3 +1,5 @@
+using System;
+
 class Fornecedor:Pessoa{
 
     //variaveis
